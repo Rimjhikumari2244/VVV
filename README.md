@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Hemantjha2244
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# finalpro
+this is my final frt project.
+#azure file:///C:/Users/Hemant%20kumar%20jha/Downloads/Foodie-Blog-Starter/index.html
 
-<!---
-Hemantjha2244/Hemantjha2244 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
